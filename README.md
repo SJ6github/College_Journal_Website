@@ -7,11 +7,11 @@ This project is a static website built entirely using **HTML** and **CSS**, desi
 - Clean and structured layout using pure HTML & CSS
 - Multi-page design with academic journal-specific sections
 - Easy to customize and expand
-- No external libraries or frameworks — fully static
+- No external libraries or frameworks, i.e. fully static (beginner level)
 
 ##  Getting Started
 
 1. **Clone the repository**: <br>
    `git clone https://github.com/<your-username>/<your-repo-name>.git`
-2. **Open any HTML file in your browser to preview:**
+2. **Open any of the HTML files in your browser to preview**
    
